@@ -1,0 +1,144 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.con{
+  width: 650px;
+  height: 1354px;
+  margin: 0 auto;
+  border: 5px solid #ECECEC;
+}
+.header-top{
+  padding: 15px;
+}
+.ins{
+  font-family: arial;
+  font-size: 13px;
+  width: 50%;
+  float:right;
+  margin: 0px;
+  text-align:right;
+}
+.ins span{
+  font-weight: bold;
+  float: left;
+  width: 100%;
+  margin-bottom: 8px;
+}
+.ins a{
+  color: #65AC00;
+  text-decoration: none;
+}
+
+.img{
+  width: 50%;
+  float:left;
+}
+.header-bottom{
+  position: relative;
+  float: left;
+  width: 100%;
+  top: -10vh;
+}
+.header-bottom p{
+   text-align: center;
+   font-size: 22px;
+   font-weight: bold;
+   position: relative;
+   top: 15vh;
+   margin: 0;
+  left: 27vh;
+}
+
+.header-bottom span{
+  width:100%;
+float: left;
+text-align: right;
+position: relative;
+bottom: 9vh;
+right:2vh;
+}
+.header-bottom span a{
+  margin-left: 3px;
+}
+.main{
+  top: -18vh;
+  float: left;
+  position: relative;
+
+  }
+  .left{
+    width: 370px;
+    float: left;
+    margin-right: 15px;
+  }
+.left h2{
+  color: #95C650;
+  font-family: georgia;
+  font-size: 25px;
+  font-weight: normal;
+
+}
+.left p{
+  font-family: arial;
+  font-size: 13px;
+  line-height: 17px;
+}
+
+.left a{
+  text-decoration: none;
+  float: left;
+  text-align: right;
+  width: 100%;
+  color: #8FD2E9;
+}
+.ast{
+  border-bottom: 1px solid #E2E2E2;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+
+}
+.left img{
+  margin: 15px 0;
+}
+.bor{
+    border-bottom: 1px solid #E2E2E2;
+    padding-bottom: 20px;
+}
+.right{
+  float: left;
+  width: 210px;
+  margin-left: 10px;
+  border-left: 1px solid #E2E2E2;
+  padding: 0 0 87px 10px;
+}
+.right h2{
+  font-family: georgia;
+  font-size: 23px;
+  color: #fff;
+  background-color: #8CC140;
+  padding: 5px;
+  margin: 0px;
+}
+.right p{
+  font-family: arial;
+  font-size: 13px;
+  margin-top: 5px;
+  line-height: 18px;
+}
+.right a{
+  text-decoration: none;
+  color: #7FA942;
+}
+.right img{
+  margin-top: 8px;
+}
+.fter{
+  font-family: arial;
+  font-size: 11px;
+  text-align: center;
+  position: relative;
+  right: 37%;
+  line-height: 18px;
+}
